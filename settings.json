@@ -1,0 +1,14 @@
+{
+    "chain"             : "84532",
+    "mongoURI"          : "mongodb://127.0.0.1:27017/based_fellas",
+    "registryContract"  : {
+        "84532"     :"0x0Caf2E4B166BF7a6B7324E7e391dd85705857BCE",
+        "8453"      : "null"  
+    },
+    "statCallContract"  : {
+        "84532"     :"0xd2C88096A6031ed4EBdE7Ad99dC1758871533410",
+        "8453"      : "null"  
+    },
+    "84532"             : "https://rpc.ankr.com/base_sepolia",
+    "8453"              : "https://rpc.ankr.com/base"  
+}

@@ -1,0 +1,16 @@
+{
+  "name": "market_data_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "The Unlicense",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "mongoose": "^8.1.1"
+  }
+}
